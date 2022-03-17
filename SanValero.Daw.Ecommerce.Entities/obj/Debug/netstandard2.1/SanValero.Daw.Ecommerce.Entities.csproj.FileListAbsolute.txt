@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\Retos_Season2\Reto Front JAIME\Jsanudo.Ecommerce.Api\SanValero.Daw.Ecommerce.Entities\bin\Debug\netstandard2.1\SanValero.Daw.Ecommerce.Entities.deps.json
+C:\Users\Admin\Desktop\Retos_Season2\Reto Front JAIME\Jsanudo.Ecommerce.Api\SanValero.Daw.Ecommerce.Entities\bin\Debug\netstandard2.1\SanValero.Daw.Ecommerce.Entities.dll
+C:\Users\Admin\Desktop\Retos_Season2\Reto Front JAIME\Jsanudo.Ecommerce.Api\SanValero.Daw.Ecommerce.Entities\bin\Debug\netstandard2.1\SanValero.Daw.Ecommerce.Entities.pdb
+C:\Users\Admin\Desktop\Retos_Season2\Reto Front JAIME\Jsanudo.Ecommerce.Api\SanValero.Daw.Ecommerce.Entities\obj\Debug\netstandard2.1\SanValero.Daw.Ecommerce.Entities.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Retos_Season2\Reto Front JAIME\Jsanudo.Ecommerce.Api\SanValero.Daw.Ecommerce.Entities\obj\Debug\netstandard2.1\SanValero.Daw.Ecommerce.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Retos_Season2\Reto Front JAIME\Jsanudo.Ecommerce.Api\SanValero.Daw.Ecommerce.Entities\obj\Debug\netstandard2.1\SanValero.Daw.Ecommerce.Entities.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Retos_Season2\Reto Front JAIME\Jsanudo.Ecommerce.Api\SanValero.Daw.Ecommerce.Entities\obj\Debug\netstandard2.1\SanValero.Daw.Ecommerce.Entities.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Retos_Season2\Reto Front JAIME\Jsanudo.Ecommerce.Api\SanValero.Daw.Ecommerce.Entities\obj\Debug\netstandard2.1\SanValero.Daw.Ecommerce.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Retos_Season2\Reto Front JAIME\Jsanudo.Ecommerce.Api\SanValero.Daw.Ecommerce.Entities\obj\Debug\netstandard2.1\SanValero.Daw.Ecommerce.Entities.dll
+C:\Users\Admin\Desktop\Retos_Season2\Reto Front JAIME\Jsanudo.Ecommerce.Api\SanValero.Daw.Ecommerce.Entities\obj\Debug\netstandard2.1\SanValero.Daw.Ecommerce.Entities.pdb
